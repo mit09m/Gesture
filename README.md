@@ -1,3 +1,3 @@
 # Gesture
 
-New technique for pose estimatio will be implemented
+New technique for pose estimation will be implemented
